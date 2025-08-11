@@ -66,4 +66,25 @@ Product categories:
 2. **Electronics** – Strong performance
 3. **Furniture** – Solid contribution
 
-The balanced distribution reduces dep
+The balanced distribution reduces dependency on a single category, lowering business risk.  
+➡ Growth potential exists by boosting top-performing lines and marketing slower-moving items.
+
+---
+
+## 6. Strategic Recommendations
+1. **Investigate Post-2022 Decline** – Analyze competitor actions, pricing strategies, and market trends.
+2. **Expand in Underperforming Regions** – Focus marketing in Ohio, Illinois, and Texas.
+3. **Leverage High-Performing States** – Introduce premium products or exclusive offers in top states.
+4. **Enhance Category Performance** – Strengthen Office Supplies while innovating in Electronics and Furniture.
+5. **Optimize Customer Engagement** – More payment options, improved online experience, loyalty programs.
+
+---
+
+## 7. Conclusion
+The **Sales and Profit Insights Dashboard** provides a comprehensive view of operational and financial performance.  
+
+- **Strengths:** Healthy profit margin, balanced product sales  
+- **Concerns:** Declining sales trend since 2022  
+- **Action Plan:** Regional expansion, product innovation, and customer engagement strategies  
+
+By acting on these insights, the company can reverse the decline and achieve sustainable growth in the coming years.
